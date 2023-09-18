@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a8cd39b7-ed14-4477-a379-930fb752e1fb/resourceGroups/learn-50c02804-8f26-472b-989c-29954b4ec925/providers/Microsoft.Web/sites/PersonalityPredictionUsingAI",
+    "appService.deploySubpath": "."
+}
